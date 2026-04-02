@@ -57,8 +57,8 @@ POST `http://localhost:3000/usuarios`
 Body (JSON):
 ```json
 {
-  "nome": "João",
-  "email": "joao@example.com"
+  "nome": "Carlos",
+  "email": "carlitos@example.com"
 }
 ```
 Resposta 201: usuário recém-criado.
@@ -68,8 +68,8 @@ PUT `http://localhost:3000/usuarios/{id}`
 Body (JSON):
 ```json
 {
-  "nome": "João Silva",
-  "email": "joao.silva@example.com"
+  "nome": "Carlos Miguel",
+  "email": "carlitos_miguelitos@example.com"
 }
 ```
 Resposta 200: usuário atualizado.
@@ -94,8 +94,7 @@ Acesse: `http://localhost:3000/api-docs`.
 ### Passo 1: Clonar o Repositório
 Abra o seu terminal e clone este repositório para a sua máquina local:
 ```bash
-git clone https://github.com/ipolato/opt120-backend-exemplo.git
-cd opt120-backend-exemplo
+git clone https://github.com/JosueModesto/App-Mobile.git
 ```
 
 ### Passo 2: Subir a Infraestrutura (Banco de Dados)
