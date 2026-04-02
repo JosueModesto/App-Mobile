@@ -75,10 +75,10 @@ flutter run -d chrome
 ## 🚀 Como Rodar o Projeto
 
 ### Passo 1: Clonar o Repositório
-Abra o terminal e clone este projeto em uma pasta separada do backend:
+Abra o terminal e clone este projeto (repositório do Josue):
 ```bash
-git clone https://github.com/ipolato/opt120_fontend_exemplo.git
-cd opt120_fontend_exemplo
+git clone https://github.com/JosueModesto/App-Mobile.git
+cd App-Mobile/Frontend
 ```
 ### Passo 2: Instalar as Dependências
 Baixe os pacotes necessários (como o pacote http) definidos no arquivo pubspec.yaml:

@@ -2,7 +2,18 @@
 
 Este `README` explica todas as rotas e como usar as funcionalidades disponíveis na API de usuários.
 
-## 🛠️ Tecnologias Utilizadas
+## � Repositório
+Clone o repositório oficial:
+```bash
+git clone https://github.com/JosueModesto/App-Mobile.git
+cd App-Mobile/Backend
+```
+
+## 📁 Estrutura de pastas
+- Backend: `App-Mobile/Backend`
+- Frontend: `App-Mobile/Frontend`
+
+## �🛠️ Tecnologias Utilizadas
 * Node.js + Express
 * PostgreSQL
 * Docker, Docker Compose
